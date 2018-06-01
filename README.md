@@ -22,3 +22,4 @@
 ![image](https://raw.githubusercontent.com/xypecho/Electronic-shop/master/%E5%95%86%E5%9F%8E%E6%88%AA%E5%9B%BE/FireShot%20Capture%2023%20-%20%E5%95%86%E5%9F%8E%E5%90%8E%E5%8F%B0%20-%20http___localhost_admin_html_adduser.php.png)
 ![image](https://raw.githubusercontent.com/xypecho/Electronic-shop/master/%E5%95%86%E5%9F%8E%E6%88%AA%E5%9B%BE/FireShot%20Capture%2024%20-%20%E5%95%86%E5%9F%8E%E5%90%8E%E5%8F%B0%20-%20http___localhost_admin_html_shop.php.png)
 
+（确实有点丑啊，不过还是点个赞！）
